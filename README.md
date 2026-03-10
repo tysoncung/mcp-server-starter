@@ -141,3 +141,9 @@ Skip the hours of setup. Start building production MCP tools today.
 ## License
 
 MIT — see [LICENSE](LICENSE)
+
+## 📖 Read the Full Story
+
+**[I Built a Production MCP Server Kit — Here's What I Learned](https://dev.to/tyson_cung/i-built-a-production-mcp-server-kit-heres-what-i-learned-28km)** — the design decisions, architecture, and lessons from building production MCP servers.
+
+![MCP Server Architecture](docs/images/architecture.png)
